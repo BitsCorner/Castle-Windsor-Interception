@@ -1,0 +1,10 @@
+c:\users\v-arkouk\documents\visual studio 2013\Projects\AOP Demo\AOP Demo\bin\Debug\AOP Demo.exe.config
+c:\users\v-arkouk\documents\visual studio 2013\Projects\AOP Demo\AOP Demo\obj\Debug\AOP Demo.csprojResolveAssemblyReference.cache
+c:\users\v-arkouk\documents\visual studio 2013\Projects\AOP Demo\AOP Demo\bin\Debug\AOP Demo.exe
+c:\users\v-arkouk\documents\visual studio 2013\Projects\AOP Demo\AOP Demo\bin\Debug\AOP Demo.pdb
+c:\users\v-arkouk\documents\visual studio 2013\Projects\AOP Demo\AOP Demo\obj\Debug\AOP Demo.exe
+c:\users\v-arkouk\documents\visual studio 2013\Projects\AOP Demo\AOP Demo\obj\Debug\AOP Demo.pdb
+C:\Users\v-arkouk\documents\visual studio 2013\Projects\AOP Demo\AOP Demo\bin\Debug\Castle.Core.dll
+C:\Users\v-arkouk\documents\visual studio 2013\Projects\AOP Demo\AOP Demo\bin\Debug\Castle.Windsor.dll
+C:\Users\v-arkouk\documents\visual studio 2013\Projects\AOP Demo\AOP Demo\bin\Debug\Castle.Core.xml
+C:\Users\v-arkouk\documents\visual studio 2013\Projects\AOP Demo\AOP Demo\bin\Debug\Castle.Windsor.xml
