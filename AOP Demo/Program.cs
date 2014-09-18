@@ -21,7 +21,7 @@ namespace AOP_Demo
 
             user.GetUserName();
 
-            Console.ReadKey();
+            Console.ReadLine();
 
         }
 

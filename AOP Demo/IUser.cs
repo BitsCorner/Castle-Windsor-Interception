@@ -9,6 +9,5 @@ namespace AOP_Demo
     public interface IUser
     {
         string GetUserName();
-        string AddUser();
     }
 }
