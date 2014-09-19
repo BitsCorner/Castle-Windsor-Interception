@@ -9,18 +9,18 @@ namespace AOP_Demo
         {
             try
             {
-                Console.WriteLine("Logging On Start");
+                Console.WriteLine("Logging On Start, Method:" + invocation.Method.Name);
                 invocation.Proceed();
-                Console.WriteLine("Logging On Success");
+                Console.WriteLine("Logging On Success, Method:" + invocation.Method.Name);
             }
-            catch (Exception e)
+            catch (Exception)
             {
-                Console.WriteLine("Logging an exception has occurred");
-                throw e;
+                Console.WriteLine("Logging an exception has occurred, Method:" + invocation.Method.Name);
+                throw;
             }
             finally
             {
-                Console.WriteLine("Logging on Exit");
+                Console.WriteLine("Logging on Exit, Method:" + invocation.Method.Name);
             }
         }
     }
